@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AidenF0X
 - 👀 I’m interested in PhP and Java
-- 🌱 I’m currently learning writing REST APIs
+- 🌱 I’m currently learning to write REST APIs
 - 💞️ I’m looking to collaborate on FoxesWorld
 - 📫 You can reach me via email miomoor182@gmail.com
 
