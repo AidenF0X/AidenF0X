@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AidenF0X
 -  I'm a founder of FoxesWorld
-- 👀 I’m interested in PhP and Java
+- 👀 I’m interested in PhP && Java && C
 - 🌱 I’m currently learning to write REST APIs
 - 💞️ I’m looking to collaborate on @FoxesWorld
 - 📫 You can reach me via email miomoor182@gmail.com
