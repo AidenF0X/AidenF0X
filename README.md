@@ -1,4 +1,4 @@
-## Languages
+## Languages known
 
 
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
@@ -17,7 +17,7 @@
 	<img title="PHP" align="left" height="25" src=".github/php.png">
 </a>
 
-<br /> <hr>
+<br />
 
 ## Using Tools
 
@@ -30,7 +30,11 @@
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">
-	<img title="PhotoShop" align="left" height="25" src=".hithub/ps.png">
+	<img title="PhotoShop" align="left" height="25" src=".github/ps.png">
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Notepad++">
+	<img title="Notepad++" align="left" height="25" src=".github/Notepad++.png">
 </a>
 
 <br />
