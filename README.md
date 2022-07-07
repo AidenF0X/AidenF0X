@@ -36,9 +36,4 @@
 <a href="https://en.wikipedia.org/wiki/Notepad++">
 	<img title="Notepad++" align="left" height="25" src=".github/Notepad++.png">
 </a>
-
-<br />
-<br />
-
-## A Fox that wanted to create it's own world but couldn't handle that byself.
  
