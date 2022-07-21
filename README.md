@@ -19,6 +19,11 @@
 
 <br />
 
+    <a href="https://github.com/jstrieb/github-stats">
+      <img src="https://github.com/AidenF0X/github-stats/blob/master/generated/languages.svg">
+    </a>
+
+
 ## Using Tools
 
 <a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA">
@@ -26,7 +31,7 @@
 </a>
 
 <a href="https://en.wikipedia.org/wiki/JetBrains#IDEs">
-	<img title="CLion" align="left" height="25" src=".github/netbeans.png">
+	<img title="NetBeans" align="left" height="25" src=".github/netbeans.png">
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">
