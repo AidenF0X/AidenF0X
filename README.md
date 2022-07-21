@@ -18,12 +18,7 @@
 </a>
 
 <br />
-
-<p align="center" >
-    <a href="https://github.com/jstrieb/github-stats">
-      <img src="https://github.com/AidenF0X/github-stats/blob/master/generated/languages.svg">
-    </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenF0X)](https://github.com/AidenF0X/github-readme-stats)
 
 
 ## Using Tools
