@@ -1,6 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenF0X&langs_count=8)
 ## Languages known
-
-
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
 	<img title="Java" align="left" height="25" src=".github/java.png">
 </a>
@@ -18,8 +17,6 @@
 </a>
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenF0X)](https://github.com/AidenF0X/github-readme-stats)
-
 
 ## Using Tools
 
