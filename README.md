@@ -19,9 +19,11 @@
 
 <br />
 
+<p align="center" >
     <a href="https://github.com/jstrieb/github-stats">
       <img src="https://github.com/AidenF0X/github-stats/blob/master/generated/languages.svg">
     </a>
+</p>
 
 
 ## Using Tools
