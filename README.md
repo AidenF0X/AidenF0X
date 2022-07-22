@@ -1,4 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenF0X&langs_count=8)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AidenF0X)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenF0X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Languages known
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
 	<img title="Java" align="left" height="25" src=".github/java.png">
@@ -35,4 +38,10 @@
 <a href="https://en.wikipedia.org/wiki/Notepad++">
 	<img title="Notepad++" align="left" height="25" src=".github/Notepad++.png">
 </a>
+
+<br />
+
+## About
+	- Just a Fox who was trying to create something byself, JavaScript and PhP suck, Java appeared to be too difficult.
+	Not using any social networks, if you want to reach me (For what?) try Discord - `AidenFox#9354`
  
