@@ -42,6 +42,5 @@
 <br />
 
 ## About
-	- Just a Fox who was trying to create something byself, JavaScript and PhP suck, Java appeared to be too difficult.
-	Not using any social networks, if you want to reach me (For what?) try Discord - `AidenFox#9354`
+	- Try Discord - `AidenFox#9354`
  
