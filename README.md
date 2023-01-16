@@ -1,5 +1,6 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AidenF0X)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenF0X&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AidenF0X&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AidenF0X&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AidenF0X&theme=solarized_dark)
 
 
 ## Languages known
