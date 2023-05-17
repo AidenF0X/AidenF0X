@@ -43,5 +43,5 @@
 <br />
 
 ## About
-	- Try Discord - `AidenFox#9354`
+	- Try Discord - `AidenFox#0001`
  
