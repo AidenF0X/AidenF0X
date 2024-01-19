@@ -43,5 +43,5 @@
 <br />
 
 ## About
-	- Try Discord - `AidenFox#0001`
+	- Try Discord - `.aidenfox.`
  
